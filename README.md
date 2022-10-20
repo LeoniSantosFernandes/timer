@@ -20,3 +20,8 @@ Vou deixar aqui algumas fotos do projeto para uma melhor visualição.
 
 <h2>JAVASCRIPT</h2>
 <img src="https://user-images.githubusercontent.com/110071892/197007283-24ce5520-646c-4029-a7f3-e7791372c2fa.png" />
+
+<h2>CSS</h2>
+<img src="https://user-images.githubusercontent.com/110071892/197008520-5b183317-da99-41b9-abf8-28401a3297e5.png" />
+
+Obrigado por visualizar!
