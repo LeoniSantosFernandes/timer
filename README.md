@@ -5,9 +5,11 @@ atividade do projeto. Foi usado no projeto IMPORT e EXPORT para a organização 
 No projeto também foi usado sons para disparar, pausar, setar o temppo e até mesmo uma música de fundo.
 Espero que gostem!
 
-Responsivo? Sim
-Telas? Mobiles, Tablets e Desktops
-Tecnologias usadas: HTML, CSS e JAVASCRIPT
+Tecnologias usadas: HTML, CSS e JAVASCRIPT  </br>
+Responsivo? Sim </br>
+Telas: Mobile, Tablets e Desktops
+
+Tempo de produção: 1.5d ( um dia e meio ) Espero que gostem!
 
 Vou deixar aqui algumas fotos do projeto para uma melhor visualição.
 
